@@ -2,7 +2,7 @@
 This is my public portfolio for the Telling Stories with Data class at CMU!
 
 # About me
-![Bank] (Bank Professional Photo.jpg)
+[Bank](Bank Professional Photo.jpg)
 
 Hello! I am Bank (he/him). I am a second year MBA student at Tepper Business School at Carnegie Mellon University. I am originally from Bangkok, Thailand where you can find delish foods in every corner of the street! I'm interested in analyzing financial performance of the business and presenting an awesome visualization to stakeholders (i.e. investors, buyers, or regulators). I practiced my data visualization skill when I worked as an M&A consultant at PwC. It involved the process of simplifying the complex financial transactions and making stories with charts to support our presentation to our buy-side client. 
 
@@ -11,4 +11,4 @@ I hope to learn more about how to visualize more complex data besides the financ
 
 # Portfolio
 Here's where all my cool data visualization will go! I hope you enjoy it!
-Assignment week2 (Government Debt-to-GDPby countries over 1995-2019): [Link to other page](https://github.com/tsongpra/portfolio/blob/main/Debt-to-GDP2.md)
+Assignment week2 (Government Debt-to-GDPby countries over 1995-2019): [Link to other page](https://tsongpra.github.io/portfolio/Debt-to-GDP2.html)
