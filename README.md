@@ -2,7 +2,7 @@
 This is my public portfolio for the Telling Stories with Data class at CMU!
 
 # About me
-<img src="Bank.jpg" witdth="20"/>
+<img src="Bank.jpg" width="150"/>
 
 Hello! I am Bank (he/him). I am a second year MBA student at Tepper Business School at Carnegie Mellon University. I am originally from Bangkok, Thailand where you can find delish foods in every corner of the street! I'm interested in analyzing financial performance of the business and presenting an awesome visualization to stakeholders (i.e. investors, buyers, or regulators). I practiced my data visualization skill when I worked as an M&A consultant at PwC. It involved the process of simplifying the complex financial transactions and making stories with charts to support our presentation to our buy-side client. 
 
