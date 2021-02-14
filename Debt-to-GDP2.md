@@ -1,5 +1,10 @@
-# General Government Debt by each country over 1995-2019
-The animated graph shows you an amount of general government debt in each country sort by the amount of debt. You will see the top 5 countries are Japan, Greece, Italy, Portugal, and the U.S. These top 5 rarely moved.
-One interesting fact is Belguim and Canada ranked the top 2 country that had the government loan during before the year of 2000. However, when the time passed, their ranking dropped to top 10 eventually. 
-In contrast, Portugal was ranked top 15 country before the year of 2000, but its amount of loan became larger until reach top 5 after the year of 2000.
-<div class="flourish-embed flourish-chart" data-src="visualisation/5282950"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# Chart1: Government Debt-to-GDP by country over 1995-2019
+This grpah shows each country's government debt over 1995-2019. It is good for someone who wants to focus on a movement of a specific country over the period. However, it is difficult to integrate and see the big picture of government debt around the world.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/5280460"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# Chart 2: Top 10 Government Debt-to-GDP by country over 1995-2019
+This graph was created to show the comparison of the government debt-to-GDP scale by country around the world. This animated bar chart is usable for those who want to see the movement of a specific country and those who want to see the overall big picture.
+I also highlighted the 3 countries including Japan, Greece, and the U.S. because I assume that largest of the population (and viewers who visit my page) are from the U.S., while Greece is the country that has such a high government debt amount that the country once was bankruptcy. Lastly, it was so surprising that Japan was the top country that has the largest government debt-to-GDP ratio in the world. These are the story that I wanted to highlight on my presentation. Another miscelleneous information could be seen in the bar chart.
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/5296912"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
