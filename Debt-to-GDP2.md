@@ -1,6 +1,6 @@
 
 # Chart1: Government Debt-to-GDP by country over 1995-2019
-This graph shows the movement of government debt-to-GDP over 1995-2019 country by country. It is good for someone who wants to focus on a specific country over the period. However, it is difficult to integrate and see the big picture of government debt around the world.
+A graph shows the movement of government debt-to-GDP over 1995-2019 country by country. It is good for someone who wants to focus on a specific country over the period. However, it is difficult to integrate and see the big picture of government debt around the world.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5280460"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
