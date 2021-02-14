@@ -8,3 +8,5 @@ This grpah shows each country's government debt over 1995-2019. It is good for s
 This graph was created to show the comparison of the government debt-to-GDP scale by country around the world. This animated bar chart is usable for those who want to see the movement of a specific country and those who want to see the overall big picture.
 I also highlighted the 3 countries including Japan, Greece, and the U.S. because I assume that largest of the population (and viewers who visit my page) are from the U.S., while Greece is the country that has such a high government debt amount that the country once was bankruptcy. Lastly, it was so surprising that Japan was the top country that has the largest government debt-to-GDP ratio in the world. These are the story that I wanted to highlight on my presentation. Another miscelleneous information could be seen in the bar chart.
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/5296912"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+[Link to my main homepage] (https://github.com/tsongpra/portfolio/blob/main/README.md)
