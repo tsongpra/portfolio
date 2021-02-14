@@ -9,3 +9,4 @@ I hope to learn more about how to visualize more complex data besides the financ
 
 # Portfolio
 Here's where all my cool data visualization will go! I hope you enjoy it!
+Assignment week2 (Government Debt by countries over 1995-2019): [Link to other page] (Debt-to-GDP2.md)
