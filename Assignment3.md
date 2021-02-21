@@ -1,11 +1,11 @@
-# Assignment 3
+# Find a data visualization
 <img src="MBAsalary.JPG">
 
 (Source: [Click here to see the website reference](https://www.economist.com/graphic-detail/2017/10/27/full-time-mba-courses)
 
 I selected this article because studying an MBA is a huge investment of life. One of the critical factors when choosing MBA schools is the return after graduation, which means how your MBA program increase your pre-MBA salary. Therefore, this data visualization is useful to all prospective MBA students when choosing MBA schools.
 
-# Why this visualization is problematic ?
+# Data Visualization Effectiveness Profile: Why this visualization is problematic ?
 I rely on the critique method named the Data Visualization Effectiveness Profile. Here is my analysis
 1) Usefuleness - The target audience for this article could be prospective MBA students and general people who are interested in MBA world. This one shows the useful information to the targets because they expect to see how financially worth the MBA schools are. So, this is useful.
 2) Completeness - All information is clearly. To compare the salary increase by school, it needs pre-MBA salary, post-MBA salary, and the name of schools.
@@ -15,7 +15,7 @@ I rely on the critique method named the Data Visualization Effectiveness Profile
 6) Aestetics - It looks professional and appropriate to MBA world and the website brand (Economists). However, the blue shades are unclear and the bars are close to each other too much. Therefore, the presentation should be more simple.
 7) Engagement - It inspires to the audience to continue reading the articles because the article could be written some interesting trends and why the top schools can help their student improve their salary.
 
-# How I fix this visualization ?
+# Wireframe a solution: How I fix this visualization ?
 <img src="Mysketch.JPG">
 The above picture is my wireframe sketch.
 
@@ -26,18 +26,23 @@ What did I do differently is...
 4) Title - The original "Show me the money" is misleading. I change to "MBA Salary improvement by schools" to reflect more accurately.
 5) An average line - If I have an access to full raw data, I will add the average line for both axis to divide the scatter plot into 4 areas. However, I don't have a full raw data.
 
-I talked to some of my friends. Here is my feedback.
+# Test Solution
+I talked to some of my friends. Here is my feedback. 
 1) X-Axis - Add the number of Pre-MBA salary on the X-Axis to make the audience read the dot more easily.
 2) Grouping - Use the selection drop down to filter the region in case some visitors want to focus on a particular region.
 
 My re-designed visualiztion is a scatter plot. This is the most right visualization to compare 2 factors (pre-MBA salary and % of improvement). All visitors can benchmark their current salary (pre-MBA) with all school and then if they find a matching school, then they can anticipate how much that school can increase their salary as an average percentage. 
 
-# My real redesign
+# Recreated data visualization
 
 Please be noted that I did NOT have a full raw data. So, this is just a partial representation for this assignment only and school names are missing from the original source. I realized that if I have a full access to raw data, my visualization will be completely accurately.
 
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/5353558"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
+
+# Summary
+Overall the original visualization represent how MBA schools increase your pre-MBA salary. The visualization looks fine and engaging. However, there are some misleading points on the Y-Axis (salary in thousands USD), too much data bars, and unclear coloring. One more point that I get from feedback is about adding the raw pre-MBA salary numbers on the X-Axis. I recreated the visualization and now it looks better.
 
 [Click here to return my main homepage](https://tsongpra.github.io/portfolio/)
