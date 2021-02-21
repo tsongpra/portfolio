@@ -1,3 +1,4 @@
+# Assignment 3
 # Find a data visualization
 <img src="MBAsalary.JPG">
 
