@@ -1,7 +1,7 @@
 # Find a data visualization
 <img src="MBAsalary.JPG">
 
-(Source: [Click here to see the website reference](https://www.economist.com/graphic-detail/2017/10/27/full-time-mba-courses)
+Source: [Click here to see the website reference](https://www.economist.com/graphic-detail/2017/10/27/full-time-mba-courses)
 
 I selected this article because studying an MBA is a huge investment of life. One of the critical factors when choosing MBA schools is the return after graduation, which means how your MBA program increase your pre-MBA salary. Therefore, this data visualization is useful to all prospective MBA students when choosing MBA schools.
 
