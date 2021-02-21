@@ -34,7 +34,7 @@ My re-designed visualiztion is a scatter plot. This is the most right visualizat
 
 # My real redesign
 
-Please be noted that I did NOT have a full raw data. So, this is just a partial representation for this assignment only. I realized that if I have a full access to raw data, my visualization will be completely accurately.
+Please be noted that I did NOT have a full raw data. So, this is just a partial representation for this assignment only and school names are missing from the original source. I realized that if I have a full access to raw data, my visualization will be completely accurately.
 
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/5353558"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
