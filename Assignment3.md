@@ -17,6 +17,7 @@ I rely on the critique method named the Data Visualization Effectiveness Profile
 # How I fix this visualization ?
 <img src="Mysketch.JPG">
 The above picture is my wireframe sketch.
+
 1) Y-Axis is the most problematic because it is misleading. So, I will change from the raw salary number to a percentage.
 2) The bar chart - I will change from the car chart to the dot. Therefore, the overall graph will be a scatter plot.
 3) Colors - To distinguish the regions, I will use the different colors for regions.
