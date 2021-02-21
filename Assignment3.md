@@ -43,6 +43,6 @@ Please be noted that I did NOT have a full raw data. So, this is just a partial 
 
 
 # Summary
-Overall the original visualization represent how MBA schools increase your pre-MBA salary. The visualization looks fine and engaging. However, there are some misleading points on the Y-Axis (salary in thousands USD), too much data bars, and unclear coloring. One more point that I get from feedback is about adding the raw pre-MBA salary numbers on the X-Axis. I recreated the visualization and now it looks better.
+Overall the original visualization represent how MBA schools increase your pre-MBA salary. The visualization looks fine and engaging. However, there are some misleading points on the Y-Axis (salary in thousands USD), too much data bars, and unclear coloring. One more point that I get from feedback is about adding the raw pre-MBA salary numbers on the X-Axis. I recreated the visualization and now it looks more accurately and simple.
 
 [Click here to return my main homepage](https://tsongpra.github.io/portfolio/)
