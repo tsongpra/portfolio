@@ -7,6 +7,7 @@ I selected this article because studying an MBA is a huge investment of life. On
 
 # Data Visualization Effectiveness Profile: Why this visualization is problematic ?
 I rely on the critique method named the Data Visualization Effectiveness Profile. Here is my analysis
+
 1) Usefuleness - The target audience for this article could be prospective MBA students and general people who are interested in MBA world. This one shows the useful information to the targets because they expect to see how financially worth the MBA schools are. So, this is useful.
 2) Completeness - All information is clearly. To compare the salary increase by school, it needs pre-MBA salary, post-MBA salary, and the name of schools.
 3) Perceptibility - This dimension is problematic since readers use a huge effort to understand. It is because this involves many of schools (40-50 schools) across the world. The color to categorize the region is not clear since you can see that Europe, Canada, and United States are a shade of blue. It takes a few minutes to realize that a dot with a school name label is empty, while other dots without the label is not empty.
@@ -20,6 +21,7 @@ I rely on the critique method named the Data Visualization Effectiveness Profile
 The above picture is my wireframe sketch.
 
 What did I do differently is...
+
 1) Y-Axis is the most problematic because it is misleading. So, I will change from the raw salary number to a percentage.
 2) The bar chart - I will change from the car chart to the dot. Therefore, the overall graph will be a scatter plot.
 3) Colors - To distinguish the regions, I will use the different colors for regions. All regions are the same significant. Therefore, I use the different colors.
