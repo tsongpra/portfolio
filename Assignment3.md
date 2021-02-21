@@ -1,6 +1,6 @@
 # Assignment 3
 <img src="MBAsalary.JPG">
-(Source: [Click here to see my presentation](https://www.economist.com/graphic-detail/2017/10/27/full-time-mba-courses)
+(Source: [Click here to see the website reference](https://www.economist.com/graphic-detail/2017/10/27/full-time-mba-courses)
 
 I selected this article because studying an MBA is a huge investment of life. One of the critical factors when choosing MBA schools is the return after graduation, which means how your MBA program increase your pre-MBA salary. Therefore, this data visualization is useful to all prospective MBA students when choosing MBA schools.
 
@@ -23,6 +23,7 @@ What did I do differently is...
 2) The bar chart - I will change from the car chart to the dot. Therefore, the overall graph will be a scatter plot.
 3) Colors - To distinguish the regions, I will use the different colors for regions. All regions are the same significant. Therefore, I use the different colors.
 4) Title - The original "Show me the money" is misleading. I change to "MBA Salary improvement by schools" to reflect more accurately.
+5) An average line - If I have an access to full raw data, I will add the average line for both axis to divide the scatter plot into 4 areas. However, I don't have a full raw data.
 
 I talked to some of my friends. Here is my feedback.
 1) X-Axis - Add the number of Pre-MBA salary on the X-Axis to make the audience read the dot more easily.
@@ -32,6 +33,7 @@ My re-designed visualiztion is a scatter plot. This is the most right visualizat
 
 # My real redesign
 
-Please be noted that I did not have a full raw data. So, I pick a partial data on the graph for this assignment purpose only.
+Please be noted that I did NOT have a full raw data. So, this is just a partial representation for this assignment only. I realized that if I have a full access to raw data, my visualization will be completely accurately.
+
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/5353558"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
