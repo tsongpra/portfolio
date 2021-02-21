@@ -1,6 +1,7 @@
 # Assignment 3
 <img src="MBAsalary.JPG">
 (Source: [Click here to see my presentation](https://www.economist.com/graphic-detail/2017/10/27/full-time-mba-courses)
+
 I selected this article because studying an MBA is a huge investment of life. One of the critical factors when choosing MBA schools is the return after graduation, which means how your MBA program increase your pre-MBA salary. Therefore, this data visualization is useful to all prospective MBA students when choosing MBA schools.
 
 # Why this visualization is problematic ?
@@ -12,3 +13,18 @@ I rely on the critique method named the Data Visualization Effectiveness Profile
 5) Intuitiveness - This is not difficult that much to digest the information on the visualization. However, it contains too much number of schools. 
 6) Aestetics - It looks professional and appropriate to MBA world and the website brand (Economists). However, the blue shades are unclear and the bars are close to each other too much. Therefore, the presentation should be more simple.
 7) Engagement - It inspires to the audience to continue reading the articles because the article could be written some interesting trends and why the top schools can help their student improve their salary.
+
+# How I fix this visualization ?
+<img src="Mysketch.JPG">
+The above picture is my wireframe sketch.
+1) Y-Axis is the most problematic because it is misleading. So, I will change from the raw salary number to a percentage.
+2) The bar chart - I will change from the car chart to the dot. Therefore, the overall graph will be a scatter plot.
+3) Colors - To distinguish the regions, I will use the different colors for regions.
+4) Title - The original "Show me the money" is misleading. I change to "MBA Salary improvement by schools" to reflect more accurately.
+
+I talked to some of my friends. Here is my feedback.
+1) X-Axis - Add the number of Pre-MBA salary on the X-Axis to make the audience read the dot more easily.
+2) Grouping - Use the selection drop down to filter the region in case some visitors want to focus on a particular region.
+
+# My real redesign
+<div class="flourish-embed flourish-scatter" data-src="visualisation/5353558"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
