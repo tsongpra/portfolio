@@ -18,14 +18,20 @@ I rely on the critique method named the Data Visualization Effectiveness Profile
 <img src="Mysketch.JPG">
 The above picture is my wireframe sketch.
 
+What did I do differently is...
 1) Y-Axis is the most problematic because it is misleading. So, I will change from the raw salary number to a percentage.
 2) The bar chart - I will change from the car chart to the dot. Therefore, the overall graph will be a scatter plot.
-3) Colors - To distinguish the regions, I will use the different colors for regions.
+3) Colors - To distinguish the regions, I will use the different colors for regions. All regions are the same significant. Therefore, I use the different colors.
 4) Title - The original "Show me the money" is misleading. I change to "MBA Salary improvement by schools" to reflect more accurately.
 
 I talked to some of my friends. Here is my feedback.
 1) X-Axis - Add the number of Pre-MBA salary on the X-Axis to make the audience read the dot more easily.
 2) Grouping - Use the selection drop down to filter the region in case some visitors want to focus on a particular region.
 
+My re-designed visualiztion is a scatter plot. This is the most right visualization to compare 2 factors (pre-MBA salary and % of improvement). All visitors can benchmark their current salary (pre-MBA) with all school and then if they find a matching school, then they can anticipate how much that school can increase their salary as an average percentage. 
+
 # My real redesign
+
+Please be noted that I did not have a full raw data. So, I pick a partial data on the graph for this assignment purpose only.
+
 <div class="flourish-embed flourish-scatter" data-src="visualisation/5353558"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
