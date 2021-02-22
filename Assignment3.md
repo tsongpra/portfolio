@@ -8,19 +8,22 @@ Source: [Click here to see the website reference](https://www.economist.com/grap
 # Data Visualization Effectiveness Profile: Why this visualization is problematic ?
 I rely on the critique method named the Data Visualization Effectiveness Profile. Here is my analysis
 
-1) Usefuleness - The target audience for this article could be prospective MBA students and general people who are interested in MBA world. This one shows the useful information to the targets because they expect to see how financially worth the MBA schools are. So, this is useful.
+What did they do well?
+1) The usefullness since the target audience for this article could be prospective MBA students and general people who are interested in MBA world. So, they expect to see how financially worth the MBA schools are. From this visualization, the viewers are able to compare MBA schools by salary improvement, which is one of the most significant decision making factors. This one shows the useful information to the target.
 
-2) Completeness - All information is clearly. To compare the salary increase by school, it needs pre-MBA salary, post-MBA salary, and the name of schools.
+2) The completeness - All information is clearly. To compare the salary increase by school, it needs pre-MBA salary, post-MBA salary, and the name of schools. The arthor has the right and relevant information to make this chart.
 
-3) Perceptibility - This dimension is problematic since readers use a huge effort to understand. It is because this involves many of schools (40-50 schools) across the world. The color to categorize the region is not clear since you can see that Europe, Canada, and United States are a shade of blue. It takes a few minutes to realize that a dot with a school name label is empty, while other dots without the label is not empty.
+3) The engagement - It inspires to the audience to continue reading the articles because the article could be written some interesting trends and why the top schools can help their student improve their salary, or what the article wrote to see if they can provide more details such as what other schools are?, what are the factors making a high salary jump? etc.
 
-4) Truthfulness - The comparison could be improved since the y-axis is the raw numbers. This is misleading because some schools already have a high average pre-MBA salary. However, those schools could not improve the salary much even though the post-MBA is still high. 
+What didn't they do well?
+1) Perceptibility - This dimension is problematic since readers use a huge effort to understand. The color to categorize the region is not clear since you can see that Europe, Canada, and United States are a shade of blue. It takes a few minutes to realize that a dot with a school name label is empty, while other dots without the label is not empty.
 
-5) Intuitiveness - This is not difficult that much to digest the information on the visualization. However, it contains too much number of schools. 
+2) Truthfulness - The comparison could be improved since the y-axis is the raw numbers. This is misleading because some schools already have a high average pre-MBA salary. However, those schools could not improve the salary much even though the post-MBA is still high. If the chart had intended to convey the message "what school help students improve their salary", then they should have compared in the percentage unit (not raw data). 
 
-6) Aestetics - It looks professional and appropriate to MBA world and the website brand (Economists). However, the blue shades are unclear and the bars are close to each other too much. Therefore, the presentation should be more simple.
+3) Intuitiveness - This is not difficult that much to digest the information on the visualization. However, it contains too much number of schools. It is because this contains many of schools (40-50 schools) across the world. The bar chart is too close and looks messy. It's still difficult to compare schools each other. 
 
-7) Engagement - It inspires to the audience to continue reading the articles because the article could be written some interesting trends and why the top schools can help their student improve their salary.
+4) Aestetics - The color and presentation overall looks professional and appropriate to MBA world and the website brand (Economists). However, the blue shades are unclear and the bars are close to each other too much.
+
 
 # Wireframe a solution: How I fix this visualization ?
 <img src="Mysketch.JPG">
