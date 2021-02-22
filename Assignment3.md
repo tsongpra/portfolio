@@ -24,9 +24,9 @@ I rely on the critique method named the Data Visualization Effectiveness Profile
 
 # Wireframe a solution: How I fix this visualization ?
 <img src="Mysketch.JPG">
-The above picture is my wireframe sketch.
 
-What did I do differently is...
+
+The above picture is my wireframe sketch. What did I do differently is...
 
 1) Y-Axis is the most problematic because it is misleading. So, I will change from the raw salary number to a percentage.
 
