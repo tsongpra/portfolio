@@ -4,7 +4,6 @@
 
 Source: [Click here to see the website reference](https://www.economist.com/graphic-detail/2017/10/27/full-time-mba-courses)
 
-I selected this article because studying an MBA is a huge investment of life. One of the critical factors when choosing MBA schools is the return after graduation, which means how your MBA program increase your pre-MBA salary. Therefore, this data visualization is useful to all prospective MBA students when choosing MBA schools.
 
 # Data Visualization Effectiveness Profile: Why this visualization is problematic ?
 I rely on the critique method named the Data Visualization Effectiveness Profile. Here is my analysis
@@ -42,6 +41,8 @@ What did I do differently is...
 # Test Solution
 I talked to some of my friends. Here is my feedback. 
 
+I interviewed with my MBA classmate which is the right target audience. They can tell that the visualization represents the salary increase by school. They pointed out that the bar chart looked messy and difficult to find out the detail. They agreed with my recommendation to recreate the chart and add 2 more points below.
+
 1) X-Axis - Add the number of Pre-MBA salary on the X-Axis to make the audience read the dot more easily.
 
 2) Grouping - Use the selection drop down to filter the region in case some visitors want to focus on a particular region.
@@ -50,8 +51,24 @@ My re-designed visualiztion is a scatter plot. This is the most right visualizat
 
 # Recreated data visualization
 
+I selected this article because studying an MBA is a huge investment of life. One of the critical factors when choosing MBA schools is the return after graduation, which means how your MBA program increase your pre-MBA salary. Therefore, this data visualization is useful to all prospective MBA students when choosing MBA schools. 
+
+I gathered all feedbacks from interview. What I fix is to 
+
+1) Change Y-Axis to % of salary increase
+
+2) Put the pre-MBA salary numbers on X-Axis
+
+3) Use 5 different colors to distinguish 5 regions (they have the same significance)
+
+4) Use a drop down to filter out the data
+
+5) Change a title more professionally
+
 Please be noted that I did NOT have a full raw data. So, this is just a partial representation for this assignment only and school names are missing from the original source. I realized that if I have a full access to raw data, my visualization will be completely accurately.
 
+
+Here is my recreation for the visualization.
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/5353558"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
