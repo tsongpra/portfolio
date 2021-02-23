@@ -55,14 +55,21 @@ Part 3: Summary
 I will provide an example of Finland - the best education country in the world to see what did they differently from Thailand. And I will end up with the emotional quote to call for the awareness to *CHANGE*
 
 
-#Data
-Page 1: 
+# Data
+Part 1: 
 
 - PISA score test: https://www.oecd.org/pisa/data/2015database/
 
 - English literacy: https://www.ef.com/wwen/epi/
 
-Page 2:
+- Re3lationship between class time and PISA score: https://www.oecd-ilibrary.org/docserver/744d881a-en.pdf?expires=1614031186&id=id&accname=guest&checksum=A8F3EC624B612CC77DEDB4193D50E33C and https://pisathailand.ipst.ac.th/issue-2019-46/
+
+- Government spending: https://www.eef.or.th/%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B5%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2/
+
+
+- Government spending: https://news.thaipbs.or.th/content/285252
+
+Part 2:
 
 2.1 Teacher dimension
 
