@@ -55,17 +55,17 @@ I will provide an example of Finland - the best education country in the world t
 
 # Sketching
 
-<img src="Page1.jpg" width="150"/>
+<img src="Page1.jpg">
 
-<img src="Page2.jpg" width="150"/>
+<img src="Page2.jpg">
 
-<img src="Page3.jpg" width="150"/>
+<img src="Page3.jpg">
 
-<img src="Page4.jpg" width="150"/>
+<img src="Page4.jpg">
 
-<img src="Page5.jpg" width="150"/>
+<img src="Page5.jpg">
 
-<img src="Page6.jpg" width="150"/>
+<img src="Page6.jpg">
 
 
 # Data
@@ -122,4 +122,4 @@ Part 3: Look at the good example
 
 # Method and Medium
 
-I will use a Shorthand as my mean to complete the project. Each page/chart will be visualized by flourish and Tableau. All of my visualization are charts and text. I think that would be sufficient for my readers because I want to make the mood and tone professional and simple but serious at the same time. Therefore, a Shorthand would be perfect as the way to present my visualization.
+I will use a Shorthand as my mean to complete the project. Each page/chart will be visualized by flourish and Tableau. All of my visualization are charts and text. I think that would be sufficient for my readers because I want to make the mood and tone professional and simple but serious at the same time. Therefore, a Shorthand would be perfect as the way to present my visualization. Last but not least, I will seek for a feedback before I finalize it.
