@@ -1,6 +1,7 @@
 # Outline
 
 *Time to CHANGE: A failure in Thailand's Education*
+
 Thailand's high school students struggled with the unstructured and poor quality of the university admission
 
 What I want to achieve is to call out the awareness and movement to change the current Thailand Educational Sysytem.
@@ -14,10 +15,11 @@ I will break into 3 parts.
 
 Part 1: Problem identification - shows how Thailand (poor) perform compared to other countries in terms of education quality to provoke the reader's thought that "Thailand education is problematic" and "Why?"
 I will display the PISA score of Thailand compared to an average PISA score, English literacy, and the reverse relationship between the long class hour and the student's performance.
-The funny thing is the biggest portion of government spending goes with the educational department. However, the global presence of Thailand is bad.
+
+Another point is the biggest portion of government spending goes with the educational department. However, the global presence of Thailand is bad.
 These 3 support the consequence of poor quality Thailand's educational system.
 
-Part 2: Why? This is the reasons...
+Part 2: Why? These are the reasons...
 
 3.1 Teacher - Schools in Thailand requires theie teacher applicants to have a bachelor degree in Education (major in the subject they teach such as Maths, Physics etc.)
 We are facing a shortage of teacher supplies (a ratio between teacher and student is 1:21 compared to 1:10 in Finland where is the best education in the world.), while the clas size is around 40 students per class.
@@ -31,17 +33,13 @@ The charts that I will create.
 
 (3) A big number of teacher annual salary compared with minimum wage and other careers (engineers, accountants etc.) to show that "teacher" is not a pleasant or well-paid job.
 
-3.2 Education objective - Thailand students study for Exam, but not for learning. The percentage of getting accepted from all tiers university is around 60% and the number of student enrollment for thier bachelor degree drops to XX%.  
-This is not surprising that most high-school students have to study at prep schools for enhancing a chance of get accepted. This pressure generates the prosperity of the prep school business and generated the market share around XXX million USD in Thailand. 
-Not to mention, Even though you may know that Korea is well known for a hard studying, Thailand becomes the country that their students spend the extra time after class more than Korea students do.
+3.2 Poor quality teaching approaches: I want to highlight that even though there is no direct measurement of how poor quality the classroom is, we can see the consequence by looking at the time spent at the prep schools. The survey showed that Thai students spend their time at prep school higher than Korean students which are well-known for studying hard and competitive. Also, another survey showed that the top 3 reasons why students want to go to prep schools: (1) they want to gain more knowledge, (2) they think that prep school can enhance a chance to getting admitted, and (3) teachers at school fails at teaching. 
 
 The charts that I will create.
 
-(1) Line chart of enrollment status 4-5 past years from middle schools to high schools and compare with the accepted rate each year. 
+(1) The thermometer chart to show the 3 countries comparison of time spending at prep school
 
-(2) The bar chart to represent the growing market size in the 5 past years with the label for top 5 of market share. This graph will show that most students study for passing their national exam and get accepted from the college that they wanted.
-
-(3) The thermometer chart to show the 3 countries comparison.
+(2) The percentage number of top 3 reasons.
 
 
 3.3 Centralized educational system - All top tier schools and top prep schools are located in Bangkok province, a capital of Thailand. We can see that the top 20 schools ranking by the national test score are located in Bangkok.
@@ -53,6 +51,21 @@ Morevoer, the national test score from school in Bangkok is higher than other sc
 
 Part 3: Summary
 I will provide an example of Finland - the best education country in the world to see what did they differently from Thailand. And I will end up with the emotional quote to call for the awareness to *CHANGE*
+
+
+# Sketching
+
+<img src="Page1.jpg" width="150"/>
+
+<img src="Page2.jpg" width="150"/>
+
+<img src="Page3.jpg" width="150"/>
+
+<img src="Page4.jpg" width="150"/>
+
+<img src="Page5.jpg" width="150"/>
+
+<img src="Page6.jpg" width="150"/>
 
 
 # Data
@@ -82,14 +95,11 @@ Part 2:
 - Number of students per classroom: http://www.eduwh.moe.go.th/
 
 
-2.2 Education objective
-
-
-- Top 10 Prep school data: https://www.blockdit.com/posts/5df61c1dc3a02851e436c129
-
-- Matket share Prep School: https://www.posttoday.com/finance-stock/news/243191
+2.2 Quality of teaching appraoch
 
 - Time Class by country: https://www.oecd-ilibrary.org/docserver/744d881a-en.pdf?expires=1614031186&id=id&accname=guest&checksum=A8F3EC624B612CC77DEDB4193D50E33C
+
+- Survey top 3 reasons: https://www.dailynews.co.th/education/367435
 
 
 2.3 Centralized educational system
@@ -108,3 +118,8 @@ Part 3: Look at the good example
 - Finland: https://minedu.fi/en/-/opetusministeri-andersson-pisa-tuloksista-suomessa-oma-lahikoulu-on-maailman-parhaimpien-joukossa
 
 - Finland: https://www.weforum.org/agenda/2018/09/10-reasons-why-finlands-education-system-is-the-best-in-the-world
+
+
+# Method and Medium
+
+I will use a Shorthand as my mean to complete the project. Each page/chart will be visualized by flourish and Tableau. All of my visualization are charts and text. I think that would be sufficient for my readers because I want to make the mood and tone professional and simple but serious at the same time. Therefore, a Shorthand would be perfect as the way to present my visualization.
