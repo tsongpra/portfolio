@@ -56,3 +56,14 @@ I showed the 4 brief examples of what Finland does differently from Thailand, an
 
 <img src="F_Page11.JPG">
 
+
+* User Research and Interview
+
+a) the target audience you hope to reach with your story
+
+
+b) your approach to identifying representative individuals to interview.
+
+
+c) your interview script.
+
