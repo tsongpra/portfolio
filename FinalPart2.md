@@ -45,25 +45,69 @@ In this part, I still used the dark theme to highlight the root cause of this pr
 
 <img src="F_Page8-2.JPG">
 
-<img src="F_Page9.JPG">
-
 
 Part 3: How we should improve?
 
 I showed the 4 brief examples of what Finland does differently from Thailand, and end with the big text that draw the audience attention.
+
+<img src="F_Page9.JPG">
 
 <img src="F_Page10.JPG">
 
 <img src="F_Page11.JPG">
 
 
-* User Research and Interview
+# User Research and Interview
+
+- Protocol
 
 a) the target audience you hope to reach with your story
+
+- General high/middle school students and teachers in Bangkok and nearby
+
+- College students and general public people in Bangkok and nearby
+
+- Parents who have their children in Thai education in Bangkok and nearby
+
+This group of people especially in Bangkok is a good representative because of several reasons. Firtly, Bangkokian has the highest internet/mobilephone penetration rate; therefore, they will be able to share my visualizations and become a talk of the town. Secondly, students/teachers are the first stakeholders who are in the problem cycle, while college students/parents were in the education cycle in the past. Therefore, my visualization speaks up what they feel and resonates to their experiences. Thirdly, my visualization was written in English. Bangkokian is the location where English proficiency is the highest among 77 provinces of Thailand. Therefore, they would understand the key message in my visualization.
 
 
 b) your approach to identifying representative individuals to interview.
 
+I set up my approach to identify my interviewees as below. I target 3 people. My interview is around 15-20 mins.
+
+1) People who are Thai but can read English content
+
+2) People who used to study or have an understanding in Thailand's education system
+
+3) People who now study in the United States because they know the United States education system and able to compare what's difference between Thailand and United States.
+
+
+Metrics & Questions
+
+Metrics 1: Whether the site content is appropriate for my target
+
+Question: Who do you think this site is for?
+
+Metric 2: Whether the key message can be delivered completely
+
+Question: What is the key message you get after you visit my site?, Do you think that the story is smoothly arranged?
+
+Metric 3: Whether the visualization represents the truthfulness and made beautifully
+
+Question: Are there any visualizations that make you confusing or irrelevant?, Are they any visualizations that look messy to you or could have been improved?
+
+Metric 4: Whether the site could motivates the audience to do my call-to-action
+
+Question: Are you likely to share my site on your social media or talk with your friend about the Thai education problem after you visit my site?
+
 
 c) your interview script.
 
+
+
+d) the findings from your interviews; and 
+
+
+
+e) changes you plan on implementing to your visualizations next week to address the issues identified. 
