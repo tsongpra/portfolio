@@ -61,7 +61,7 @@ I showed the 4 brief examples of what Finland does differently from Thailand, an
 
 - Protocol
 
-a) the target audience you hope to reach with your story
+<b> a) the target audience you hope to reach with your story </b>
 
 - General high/middle school students and teachers in Bangkok and nearby
 
@@ -72,7 +72,7 @@ a) the target audience you hope to reach with your story
 This group of people especially in Bangkok is a good representative because of several reasons. Firtly, Bangkokian has the highest internet/mobilephone penetration rate; therefore, they will be able to share my visualizations and become a talk of the town. Secondly, students/teachers are the first stakeholders who are in the problem cycle, while college students/parents were in the education cycle in the past. Therefore, my visualization speaks up what they feel and resonates to their experiences. Thirdly, my visualization was written in English. Bangkokian is the location where English proficiency is the highest among 77 provinces of Thailand. Therefore, they would understand the key message in my visualization.
 
 
-b) your approach to identifying representative individuals to interview.
+<b> b) your approach to identifying representative individuals to interview. </b>
 
 I looked for 3 different people to interview about my website as below;
 
@@ -103,7 +103,7 @@ Question: Are you likely to share my site on your social media or talk with your
 
 
 
-c) your interview script.
+<b> c) your interview script. </b>
 
 Brief introduction: "My name is Bank. I'm doing the webpage about Thailand's education".
 
@@ -125,7 +125,7 @@ Question 5: What will you do differently if you are the owner of this webpage?
 
 
 
-d) the findings from your interviews. 
+<b> d) the findings from your interviews. </b>
 
 Question 1: Who do you think this site is for?
 
