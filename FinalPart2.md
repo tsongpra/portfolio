@@ -179,6 +179,6 @@ Answer: Yes, but needs one more page to convince what the individual visitor can
 
 e) changes you plan on implementing to your visualizations next week to address the issues identified
 
-So, based on the feedbacks that I got, I revised my frameworks and webpage into these. [Please
+So, based on the feedbacks that I got, I revised my frameworks and webpage into these. [Click here to see my presentation](https://preview.shorthand.com/2JOYJqMl4ehir3RA)
 
 
