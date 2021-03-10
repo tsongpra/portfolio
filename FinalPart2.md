@@ -1,8 +1,6 @@
 # Wireframes and storyboard
 
-You can also see my wireframes and storyboard below or [Click here to see my presentation] (https://shorthand.com/organisations/NYRYorwlO0/stories/hM7ufPGk7N).
-
-I broke down into 3 parts
+You can also see my wireframes and storyboard below. I broke down my webpage into 3 parts
 
 Part 1: Introduction
 I gave the introduction with the dark background to draw the mood down and highlight the seriousness. I used the phrases "Did you know?" to draw the audience's attention. 
