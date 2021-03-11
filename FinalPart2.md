@@ -59,12 +59,14 @@ I showed the 4 brief examples of what Finland does differently from Thailand, an
 
 Protocol
 
-a) the target audience you hope to reach with your story
+**a) the target audience you hope to reach with your story
 
 General Thai people who are familiar with Thailand's education and Thai authorities who have a power to issue any new educational policies.
 
+Call of action: Share this webpage to enhance the public awareness of Thailand's education problem or Give the donation to the educational organizations.
 
-b) your approach to identifying representative individuals to interview. 
+
+**b) your approach to identifying representative individuals to interview.
 
 I looked for 3 different people to interview about my website as below;
 
@@ -95,7 +97,7 @@ I also set up metrics
 
 
 
-c) your interview script. 
+**c) your interview script. 
 
 Brief introduction: "My name is Bank. I'm doing the webpage about Thailand's education".
 
@@ -117,7 +119,7 @@ After finishing scrolling up, I started asking the questions listed above.
 
 
 
-d) the findings from your interviews. 
+**d) the findings from your interviews. 
 
 - Question 1: Who do you think this site is for?
 
@@ -158,6 +160,7 @@ d) the findings from your interviews.
 
 
 - 6) This page is confusing that it is the policies that Findland has been doing or this is the recommendation that the webpage is recommending. Word choices should be refined.
+
 <img src="F_Page10.JPG">
 
 
@@ -172,8 +175,37 @@ d) the findings from your interviews.
 
 
 
-e) changes you plan on implementing to your visualizations next week to address the issues identified
+**e) changes you plan on implementing to your visualizations next week to address the issues identified
 
 - So, based on the feedbacks that I got, I revised my frameworks and webpage into these. [Click here to see my presentation](https://preview.shorthand.com/2JOYJqMl4ehir3RA)
+
+1) I removed the bar of region and English proficiency label and placed the graph on the side of description.
+
+<img src="FF_Page1.JPG">
+
+
+2) I highlight on the blue on Finland to be a benchmark of Thailand. 
+
+<img src="FF_Page2.JPG">
+
+3) I changed from the boxplot visualization to the simple bar stack chart with the same meaning.
+
+<img src="FF_Page3.JPG">
+
+4) I made the last reason more clear by adding "due to the under qualified teachers"
+
+<img src="FF_Page4.JPG">
+
+5) I changed from the heat map visualization to the butterfly graph to show the mismatching between the financial subsidy and the number of poor students. 
+
+<img src="FF_Page5.JPG">
+
+6) I reworded the phrases in the box to show that these represent the existing policies in Finland.
+
+<img src="FF_Page6.JPG">
+
+7) I added the new page talking about the option that the audience can do it now to make a change. This page is placed right before the summary page.
+
+<img src="FF_Page7.JPG">
 
 
