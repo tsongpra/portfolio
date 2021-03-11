@@ -17,3 +17,5 @@ Assignment week2 (Government Debt-to-GDPby countries over 1995-2019): [Click her
 Assignment week3 (MBA Salary Improvement by schools, 2017): [Click here to see my presentation](https://tsongpra.github.io/portfolio/Assignment3.html)
 
 Final Project Part 1 (Time to Change: A failure of Thailand's Educational System): [Click here to see my presentation](https://tsongpra.github.io/portfolio/FinalPart1.html)
+
+Final Project Part 2 (Change: For a better Thailand's Education): [Click here to see my presentation](https://tsongpra.github.io/portfolio/FinalPart2.html)
