@@ -59,14 +59,14 @@ I showed the 4 brief examples of what Finland does differently from Thailand, an
 
 Protocol
 
-**a) the target audience you hope to reach with your story
+**a) the target audience you hope to reach with your story**
 
 General Thai people who are familiar with Thailand's education and Thai authorities who have a power to issue any new educational policies.
 
 Call of action: Share this webpage to enhance the public awareness of Thailand's education problem or Give the donation to the educational organizations.
 
 
-**b) your approach to identifying representative individuals to interview.
+**b) your approach to identifying representative individuals to interview.**
 
 I looked for 3 different people to interview about my website as below;
 
@@ -97,7 +97,7 @@ I also set up metrics
 
 
 
-**c) your interview script. 
+**c) your interview script.** 
 
 Brief introduction: "My name is Bank. I'm doing the webpage about Thailand's education".
 
@@ -119,7 +119,7 @@ After finishing scrolling up, I started asking the questions listed above.
 
 
 
-**d) the findings from your interviews. 
+**d) the findings from your interviews.** 
 
 - Question 1: Who do you think this site is for?
 
@@ -135,36 +135,36 @@ After finishing scrolling up, I started asking the questions listed above.
 
 - Answers:
 
-- 1) There are 3 points: (1) This graph looks messy. They recommend to remove the control bar (english proficiency and region) because of irrelevance. (2) The audience did not understand why I made a called out at Finland dot. So, it needs a brief introduction why Finland is called out. (3) Some does not know what PISA and OECD abbreviate for ? So, it could be better if I wrote the full name in the first mentioned.
+1) There are 3 points: (1) This graph looks messy. They recommend to remove the control bar (english proficiency and region) because of irrelevance. (2) The audience did not understand why I made a called out at Finland dot. So, it needs a brief introduction why Finland is called out. (3) Some does not know what PISA and OECD abbreviate for ? So, it could be better if I wrote the full name in the first mentioned.
 
 <img src="F_Page3.JPG">
 
-- 2) Needs to highlight the blue color on Finland if I want to benchmark with it.
+2) Needs to highlight the blue color on Finland if I want to benchmark with it.
 
 <img src="F_Page4.JPG">
 
 
-- 3) The graph looks too difficult to understand for someone who has no statistical background. They recommended to use the bar stack chart to represent 2 elements (base salary + extra paid). Also, they recommended to rearrange the page by splitting into 2 parts and put the text/graphs on both side because both graphs have their own story. Last but not least was about the title. It should be changed to Ä shortage of teachers".
+3) The graph looks too difficult to understand for someone who has no statistical background. They recommended to use the bar stack chart to represent 2 elements (base salary + extra paid). Also, they recommended to rearrange the page by splitting into 2 parts and put the text/graphs on both side because both graphs have their own story. Last but not least was about the title. It should be changed to Ä shortage of teachers".
 
 <img src="F_Page6-2.JPG">
 
 
-- 4) Word choices on the last reason - "Students DON'T UNDERSTAND the lecture school class taught by teacher". It is confusing whether it is because the students don't understand by themselves or the teachers are under qualified, or teachers could not pay attention. So, it needed to be more clearly on that point.
+4) Word choices on the last reason - "Students DON'T UNDERSTAND the lecture school class taught by teacher". It is confusing whether it is because the students don't understand by themselves or the teachers are under qualified, or teachers could not pay attention. So, it needed to be more clearly on that point.
 
 <img src="F_Page7.JPG">
 
 
-- 5) Map visualization looks intimidating. The chart is showing the mismatching between the fund allocation and the number of poor students. The butterfly graph should be used for this scenario. 
+5) Map visualization looks intimidating. The chart is showing the mismatching between the fund allocation and the number of poor students. The butterfly graph should be used for this scenario. 
 
 <img src="F_Page8-2.JPG">
 
 
-- 6) This page is confusing that it is the policies that Findland has been doing or this is the recommendation that the webpage is recommending. Word choices should be refined.
+6) This page is confusing that it is the policies that Findland has been doing or this is the recommendation that the webpage is recommending. Word choices should be refined.
 
 <img src="F_Page10.JPG">
 
 
-- 7) Call to action page is not strong enough. There should be one more page before the summary page that elaborates more clearly on what I want the audience to do. If I want the audience to share this page, it should have a share button attached below the paragraph. Also, there should be an English translation for the picture on the last page.
+7) Call to action page is not strong enough. There should be one more page before the summary page that elaborates more clearly on what I want the audience to do. If I want the audience to share this page, it should have a share button attached below the paragraph. Also, there should be an English translation for the picture on the last page.
 
 <img src="F_Page11.JPG">
 
@@ -175,7 +175,7 @@ After finishing scrolling up, I started asking the questions listed above.
 
 
 
-**e) changes you plan on implementing to your visualizations next week to address the issues identified
+**e) changes you plan on implementing to your visualizations next week to address the issues identified.**
 
 - So, based on the feedbacks that I got, I revised my frameworks and webpage into these. [Click here to see my presentation](https://preview.shorthand.com/2JOYJqMl4ehir3RA)
 
