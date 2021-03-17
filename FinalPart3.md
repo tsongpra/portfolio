@@ -1,6 +1,6 @@
-# Changes that I made from the user interview
+# Changes that I made based on the feedback from the user interview and my thoughts
 
-You can visit my final data story at 
+You can visit my final data story at [Click here to see my Final Presentation] (https://carnegiemellon.shorthandstories.com/ChangeThailandEducation/index.html)
 
 1) Page 1
 
