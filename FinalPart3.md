@@ -19,15 +19,14 @@ I changed from "What happened to Thai's Education?" to "What happened to Thailan
 
 3) Page 3
 
-I changed 4 things on this page: (1) Added more explanation what PISA Score abbreviates for, (2) Explain the reason why Finland is highlighted?, (3) Removed the English Proficiency and Region Bar on the top because of irrelavance,
-and (4) Changed the layout of the page from the text above the visualization to the text placed on the side of visualization.
+I changed 4 things on this page: (1) Added more explanation what PISA Score abbreviates for, (2) Explain the reason why Finland is highlighted?, (3) Removed the English Proficiency and Region Bar on the top because of irrelavance, and (4) Changed the layout of the page from the text above the visualization to the text placed on the side of visualization.
 
 <img src="Final_Page3.JPG">
 
 
 4) Page 4
 
-I changed 2 things on this page: (1) Highlighted Finland as we already mentioned it from the previous page, (2) Changed the layout of the page to the text placed on the side of visualization.
+I changed 2 things on this page: (1) Highlighted Finland as we already mentioned it from the previous page, (2) Changed the layout of the page to the text placed on the side of visualization as it would facilitate the readers read the webpage more easily.
 
 <img src="Final_Page4.JPG">
 
@@ -42,8 +41,8 @@ I changed the background from the picture of female teacher who was teaching her
 6) Page 6
 
 I changed 3 things on this page; (1) I changed the initial layout to 2 charts on the both side with the short text as in the initial version, the 2 charts were placed inappropriately.
-(2) The boxplot salary graph looks too complex for the target audience. I changed it to the bar chart and make it simple by showing only the minimum wages; (
-(3) The word choices including "Good qualified teachers are shortage"
+(2) The boxplot salary graph looks too complex for the target audience. I changed it to the bar chart and make it simple by showing only the minimum wages; 
+(3) The word choices - I changed from "Good qualified teachers are shortage" to "A shortage of teachers".
 
 <img src="Final_Page6.JPG">
 
@@ -59,7 +58,7 @@ With the new one, it's clear that it is due to the ability of teachers. Another 
 8) Page 8
 
 I changed 3 things in this page. (1) I added the Y-Axis on the students performance comparison. (2) I changed from the map chart to the butterfly chart because I would like to highlight the mismatching between the budget allocation and the number of poor students across Thailand.
-(3) the layout is changed to the 2 charts are on the both side within 1 page.
+(3) the layout is changed to the both charts are displayed on the both side within 1 page to faciliate the readers.
 
 <img src="Final_Page8.JPG">
 
@@ -81,14 +80,13 @@ but I want to highlight "what makes Finland as the top education country".
 
 11) Page 11
 
-I added this extra topic to enhance the sympathy and make my call-to-actions more clear on "what you (as a reader) can do?". I selected the bright picture with the positive vibes.
+I added this extra topic to enhance the sympathy and make my call-to-actions more clear on "what you (as a reader) can do?". I selected the bright picture with the positive vibes. 
 
 <img src="Final_Page11.JPG">
 
 12) Page 12
 
-I split into 2 actions including sharing this story to your social media, and (financially) support the educational organizations. This page role is to make the call-to-actions more clear.
-The texts are written by using the emotional phrases to touch upon the reader heart. 
+I split into 2 actions including sharing this story to your social media, and (financially) support the educational organizations. This page role is to make the call-to-actions more clear. I also added the button that the reader can simply click on it to share or access to the website. The texts are written by using the emotional phrases to touch upon the reader heart. 
 
 <img src="Final_Page12.JPG">
 
@@ -102,14 +100,12 @@ I changed the background from black color to white color, and some texts.
 
 I also would like to summary that I learnt along the way in my final project.
 
-**1) Make it simple** - All data visualizations should be digested within a few second. So, the design should be created matching with the target audiences knowledge.
+**1) Make it simple** - All data visualizations should be digested within a few second. So, the design of each visualization should be matching with the target audiences knowledge.
 
-**2) Unity is the key** - All story should be waived with the unity. Don't create the page or waste the time to focus on something that could distract from the key message.
+**2) Unity is the key** - All story should be written in the same direction. Don't create the page or waste the time to write something that could distract from the key message.
 
 **3) Call-to-action should be described clearly** - Say it clearly what you want the audiences to achieve.
 
-**4) Color can draw the mood and emotion** - Tone and Colors are the key. I should use the color and tone that represents the mood of the webpage, and use the color consistently.
+**4) Choice of colors is significant** - Tone and Colors are the key success factor. I should use the color and tone that represents the mood of the webpage, and use the color consistently. I used the gray to highlight the dark red.
 
-**5) Remove anything irrelevant** - Some data should not be included in the visualization (like in my case, English proficiency or By region are not related to my point).
-
-
+**5) Remove anything irrelevant** - An irrelevant information should not be included in the visualization (like in my case, English proficiency or By region are not related to my point).
