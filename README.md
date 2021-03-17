@@ -19,3 +19,5 @@ Assignment week3 (MBA Salary Improvement by schools, 2017): [Click here to see m
 Final Project Part 1 (Time to Change: A failure of Thailand's Educational System): [Click here to see my presentation](https://tsongpra.github.io/portfolio/FinalPart1.html)
 
 Final Project Part 2 (Change: For a better Thailand's Education): [Click here to see my presentation](https://tsongpra.github.io/portfolio/FinalPart2.html)
+
+Final Project Part 3 (Change: For a better Thailand's Education): [Click here to see my presentation](https://tsongpra.github.io/portfolio/FinalPart3.html)
