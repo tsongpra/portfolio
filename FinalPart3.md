@@ -98,6 +98,8 @@ I changed the background from black color to white color, and some texts.
 <img src="Final_Page13.JPG">
 
 
+# What I have learnt from final presentation
+
 I also would like to summary that I learnt along the way in my final project.
 
 **1) Make it simple** - All data visualizations should be digested within a few second. So, the design of each visualization should be matching with the target audiences knowledge.
@@ -109,3 +111,14 @@ I also would like to summary that I learnt along the way in my final project.
 **4) Choice of colors is significant** - Tone and Colors are the key success factor. I should use the color and tone that represents the mood of the webpage, and use the color consistently. I used the gray to highlight the dark red.
 
 **5) Remove anything irrelevant** - An irrelevant information should not be included in the visualization (like in my case, English proficiency or By region are not related to my point).
+
+
+# Summary
+
+My final presentation talks about the Thailand's education. My intended audience was students, teachers, authorities, and the general Thai people who are familiar with Thailand's education. 
+
+Theme of my visualization will start with the dark mood to highlight the seriousness of the problems and ignite the curiosity of the intended audience about "what's wrong with Thailand's education?". That being said, all visualization should made as simple as possible because the intended audience might not have an ability to understnad the complex visualization. Also, I selected the "red" color to represent the problem and "grey" color to make the red color clearly. To make my story unity, I split into 3 parts including the introduction of what happened to Thailand's education, the 3 reasons, and the solutions (call-to-actions). 
+
+After I created all visualization, I interviewed with the 3 different users including (1) someone who knows my topic very well and knows about Thailand's education, (2) someone who does not know my topic but knows about Thailand's education, and (3) someone who never knew my topic and never knew about Thailand's education. I received many useful feedbacks to make my visualization better such as making the phrases more clearly, identifying which chart look complicated, what parts are not related to the key message and potentially distract the target focus etc.
+
+Overall, doing this final presentation really strengthens my visualization skillsets by using the new tools (Tableau, Flourish), thinking how to make the story attractive to the target audiences, critiquing my work, or interviewing to get the feedback.  
